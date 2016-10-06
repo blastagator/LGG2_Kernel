@@ -11,6 +11,9 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  */
+
+#define QCE_DEBUG
+#define DEBUG
 #define pr_fmt(fmt) "QCE50: %s: " fmt, __func__
 
 #include <linux/types.h>
